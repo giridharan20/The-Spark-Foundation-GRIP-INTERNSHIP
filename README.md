@@ -1,6 +1,6 @@
 # The-Spark-Foundation-GRIP-INTERNSHIP
 
-##Author : GIRIDHARAN.B
+## Author : GIRIDHARAN.B
 
 Data Science and Business Analytics Internship Tasks
 
